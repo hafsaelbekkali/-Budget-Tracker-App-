@@ -1,0 +1,20 @@
+.App {
+     padding: 30px 0px;
+     height: 100vh;
+   }
+   .mobile {
+     display: none;
+   }
+   *{
+     text-align: center;
+   }
+   
+   
+   @media all and (max-width: 899px) {
+     .desktop {
+       display: none;
+     }
+     .mobile {
+       display: block;
+     }
+   }

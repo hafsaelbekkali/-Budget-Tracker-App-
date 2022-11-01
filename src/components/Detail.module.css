@@ -1,0 +1,9 @@
+.income {
+     border-bottom: 10px solid darkturquoise;
+     /* color: darkturquoise !important; */
+     text-align: center;
+   }
+   .expense {
+     border-bottom: 10px solid palevioletred;
+     text-align: center;
+   }

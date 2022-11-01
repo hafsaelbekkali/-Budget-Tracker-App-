@@ -1,0 +1,12 @@
+.list {
+     max-height: 150px;
+     overflow: auto;
+   }
+   .expense {
+     background-color: rgba(216, 112, 147, 0.575) !important;
+   }
+   .income {
+     background-color: rgba(0, 206, 209, 0.582) !important;
+   }
+
+   
