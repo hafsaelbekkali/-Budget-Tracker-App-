@@ -5,7 +5,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-###   https://budgetapp-test.netlify.app/
 
 ## App screenshots
 
