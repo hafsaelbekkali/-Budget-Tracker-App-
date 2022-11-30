@@ -1,11 +1,4 @@
-import {
-  Card,
-  CardContent,
-  CardHeader,
-  Divider,
-  Grid,
-  Typography,
-} from '@mui/material'
+import {Card,CardContent,CardHeader,Divider,Grid,Typography,} from '@mui/material'
 import React from 'react'
 import Form from './Form'
 import List from './List'
@@ -29,7 +22,7 @@ const Main = () => {
     } else {
       return acc + curr.amount
     }
-  }, 0)
+  }, 1000)
 
   return (
     <Card>
